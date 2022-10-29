@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MBW.Utilities.ManagedSqlite.Core</name>
+    </assembly>
+    <members>
+        <member name="M:MBW.Utilities.ManagedSqlite.Core.Helpers.SqliteDataStream.#ctor(MBW.Utilities.ManagedSqlite.Core.Internal.ReaderBase,System.UInt32,System.UInt16,System.UInt16,System.UInt32,System.Int64)">
+            <summary>
+            
+            </summary>
+            <param name="reader"></param>
+            <param name="page">The initial page</param>
+            <param name="dataOffset">The offset to the initial data</param>
+            <param name="dataLength">The length of the initial data in the initial page</param>
+            <param name="overflowPage">The pointer to the first overflow page</param>
+            <param name="fullDataSize">The final length of all data in this stream</param>
+        </member>
+        <member name="P:MBW.Utilities.ManagedSqlite.Core.Internal.ReaderBase.ReservedSpace">
+            <summary>
+            Reserved space at the end of every page
+            </summary>
+        </member>
+        <member name="T:MBW.Utilities.ManagedSqlite.Core.Objects.BTreeInteriorTablePage">
+            <summary>
+            SQLite B-Tree datastructure that contains other Interior / Leaf pages
+            </summary>
+        </member>
+        <member name="T:MBW.Utilities.ManagedSqlite.Core.Objects.BTreeLeafTablePage">
+            <summary>
+            SQLite B-Tree datastructure that cells with data
+            </summary>
+        </member>
+        <member name="F:MBW.Utilities.ManagedSqlite.Core.Objects.BTreeLeafTablePage.Cell.DataSize">
+            <summary>
+            The size of the data in the cell (including data in overflow), excluding the header and overfow page pointers
+            </summary>
+        </member>
+        <member name="F:MBW.Utilities.ManagedSqlite.Core.Objects.BTreeLeafTablePage.Cell.DataSizeInCell">
+            <summary>
+            The size of the data in the cell (in the first page only), excluding the header and overfow page pointers
+            </summary>
+        </member>
+        <member name="F:MBW.Utilities.ManagedSqlite.Core.Objects.BTreeLeafTablePage.Cell.CellHeaderSize">
+            <summary>
+            The size of the two VarInts in the beginning of the cell
+            </summary>
+        </member>
+    </members>
+</doc>

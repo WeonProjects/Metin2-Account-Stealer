@@ -1,0 +1,17 @@
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\Metin2-Stealer.exe.config
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\Metin2-Stealer.exe
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\Metin2-Stealer.pdb
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\MBW.Utilities.ManagedSqlite.Core.dll
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\MBW.Utilities.ManagedSqlite.Sql.dll
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\Superpower.dll
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\MBW.Utilities.ManagedSqlite.Core.xml
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\MBW.Utilities.ManagedSqlite.Sql.xml
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\Superpower.xml
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\obj\Debug\Metin2-Stealer.csproj.AssemblyReference.cache
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\obj\Debug\Metin2-Stealer.csproj.SuggestedBindingRedirects.cache
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\obj\Debug\Metin2-Stealer.csproj.CoreCompileInputs.cache
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\obj\Debug\Metin2-Stealer.csproj.CopyComplete
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\obj\Debug\Metin2-Stealer.exe
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\obj\Debug\Metin2-Stealer.pdb
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mertk\source\repos\Metin2-Stealer\Metin2-Stealer\bin\Debug\Newtonsoft.Json.xml
